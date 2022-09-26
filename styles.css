@@ -54,3 +54,9 @@
   .game-over {
     background-color: red;
   }
+.footer {
+    color:white;
+    font-size: 1rem;
+    word-spacing: 0.5rem;
+    margin-top: 20px;
+  }
